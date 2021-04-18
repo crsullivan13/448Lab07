@@ -1,0 +1,36 @@
+.links-list {
+    list-style-type: none;
+}
+
+.links {
+    text-decoration: none;
+}
+
+a:link {
+    color: aquamarine;
+}
+
+a:hover {
+    color: #FF7FAA;
+}
+
+.content {
+    border: 5px solid black;
+    padding-left: 20px;
+    margin-top: 15px;
+}
+
+body {
+    font-family: monospace;
+}
+
+.head {
+    text-align: center;
+    align-content: center;
+}
+
+#profile {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+}

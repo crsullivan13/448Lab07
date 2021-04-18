@@ -1,0 +1,38 @@
+
+
+#profile-img {
+    border-radius: 50%;
+    border: 5px solid  #7fffd4;
+}
+
+#profile-img:hover {
+    width: 300px;
+    height: 300px;
+}
+
+.subtext {
+    width: 285px;
+    text-align: center;
+    font-family: monospace;
+}
+
+#subtext__para {
+    background-color: aquamarine;
+}
+
+.links-list {
+    list-style-type: none;
+    padding-right: 80px;
+}
+
+h3 {
+    font-size: 20pt;
+    color: #FF7FAA;
+}
+
+body {
+    background-image: url(Background-website-01.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
